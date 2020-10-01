@@ -1,3 +1,12 @@
+Question:
+Given pointer to the head node of a linked list, the task is to reverse the linked list. We need to reverse the list by changing links between nodes.
+Given linked list
+85 15 4 20 
+Reversed Linked list 
+20 4 15 85 
+  
+Soln-:
+
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
