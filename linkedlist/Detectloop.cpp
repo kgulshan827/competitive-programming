@@ -3,7 +3,7 @@ Question:
 Given a linked list, check if the linked list has loop or not. Below diagram shows a linked list with a loop. 
   
   
-
+<img src="https://github.com/kgulshan827/competitive-programming/blob/master/linkedlist/circularlinkedlist.png">
   
 Solution:
 
