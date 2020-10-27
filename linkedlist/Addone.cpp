@@ -8,6 +8,10 @@ Input:
 1->2->9
 Output:
  1-3-0
+Input:
+9-9-9
+Output:
+1-0-0-0
 
 Solution:
 This is main function of the code.
