@@ -2,6 +2,12 @@
 Question:
 A number N is represented in Linked List such that each digit corresponds to a node in linked list. You need to add 1 to it.
 
+ 
+Example:
+Input:
+1->2->9
+Output:
+ 1-3-0
 
 Solution:
 This is main function of the code.
