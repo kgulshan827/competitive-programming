@@ -9,6 +9,11 @@ Input:
 4-5
 Output:
 3-9-0
+Input:
+9-9-9
+1
+Output:
+1-0-0-0
 Solution:
 Node* newNode(int data) 
 { 
